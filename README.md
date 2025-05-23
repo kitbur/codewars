@@ -10,3 +10,9 @@ Each kyu folder contains `.js` files named after their corresponding Codewars ch
 
 Feel free to check out my progress and completed challenges on my Codewars profile:  
 👉 [kitbur @ Codewars](https://www.codewars.com/users/kitbur)
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This project is open source under the MIT License.
